@@ -1,0 +1,4 @@
+cgspace_data/*
+prms_results/*
+.DS_Store
+__pycache__/
