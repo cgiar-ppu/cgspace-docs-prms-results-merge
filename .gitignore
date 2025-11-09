@@ -1,5 +1,7 @@
 cgspace_data/*
 prms_results/*
 prms_cgspace_merged/*
+test_input_data/*
+test_output_data/*
 .DS_Store
 __pycache__/
